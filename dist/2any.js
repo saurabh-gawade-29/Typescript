@@ -5,4 +5,4 @@ anyCheck = "youCanChangeDT";
 function checkAnyError(anyCheck) {
     console.log(anyCheck);
 }
-//# sourceMappingURL=2any.js.map
+//# sourceMappingURL=2Any.js.map
