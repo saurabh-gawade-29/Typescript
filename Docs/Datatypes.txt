@@ -1,0 +1,14 @@
+JS Datatypes:
+number
+string
+boolean
+null
+undefined
+object
+
+Typescript:
+any
+unknown
+never
+enum
+tuple
